@@ -17,7 +17,6 @@ body{
     color: white;
 }
 
-
 .glavniDiv div{
     padding: 0.6em; 
     margin: 0 auto 0 auto;
@@ -36,7 +35,7 @@ video{
 }
 
 #opcije{
-    width: 80%;
+    width: 70%;
     /* border: 1px solid black; */
     margin: 0 auto 0 auto;
     align-items: center;
@@ -46,7 +45,7 @@ video{
 
 button{
     width: 8em;
-    height: 5em;
+    height: 4em;
     border: 2px solid rgb(20, 106, 219);
     border-radius: 10px;
     padding: 0.6em;
